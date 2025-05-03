@@ -1,7 +1,10 @@
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
 |**Fajar Julianwar**|**312310672**|**TI.23.A6**|**Pemrograman Web 2**|
-|  Link Medium      | https://medium.com/@fajarjulianwar/websocket-membangun-aplikasi-chat-real-time-a35b6c76f9ed | 
+
+|Link Medium|
+|-----------------------------------------------------|
+|https://medium.com/@fajarjulianwar/websocket-membangun-aplikasi-chat-real-time-a35b6c76f9ed| 
 
 # WebSocket Chat Real-Time Sederhana
 ### Aplikasi chat real-time sederhana berbasis WebSocket yang memungkinkan komunikasi dua arah secara langsung antara server dan klien. Pesan yang dikirimkan oleh satu klien akan diterima oleh semua klien yang terhubung dalam waktu nyata.
